@@ -13,7 +13,6 @@
 
 #
 
-
 # Assessment Using Reliability Growth Testing
 
 ## Result of Model Comparison
@@ -26,7 +25,6 @@
 
 ## Advantage and Disadvantages
 
-
 # Assessment Using Reliability Demonstration Chart
 
 ## 3 Plots For MTTFmin
@@ -36,8 +34,6 @@
 ## Advantages and Disadvantages
 
 #
-
-
 
 # Comparison of Results
 
