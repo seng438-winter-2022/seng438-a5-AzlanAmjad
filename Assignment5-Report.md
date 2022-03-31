@@ -13,11 +13,31 @@
 
 #
 
+
 # Assessment Using Reliability Growth Testing
+
+## Result of Model Comparison
+
+## Result of Range Analysis
+
+## Plots For Failure Rate and Reliability
+
+## Discussion on Decision Making Given a Target Failure Rate
+
+## Advantage and Disadvantages
+
 
 # Assessment Using Reliability Demonstration Chart
 
+## 3 Plots For MTTFmin
+
+## Evaluation and Justification of MTTFmin
+
+## Advantages and Disadvantages
+
 #
+
+
 
 # Comparison of Results
 
