@@ -2,22 +2,22 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
-|-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Group \#:      | 04          |
+| -------------- | ----------- |
+| Student Names: | Azlan Amjad |
+|                | Saud Agha   |
+|                | Rohan Amjad |
+|                | Sajid Hafiz |
 
 # Introduction
 
-# 
+#
 
-# Assessment Using Reliability Growth Testing 
+# Assessment Using Reliability Growth Testing
 
-# Assessment Using Reliability Demonstration Chart 
+# Assessment Using Reliability Demonstration Chart
 
-# 
+#
 
 # Comparison of Results
 
@@ -25,7 +25,7 @@
 
 # How the team work/effort was divided and managed
 
-# 
+#
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
