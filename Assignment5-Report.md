@@ -29,6 +29,20 @@
 
 ## 3 Plots For MTTFmin
 
+Minumum MTTF:
+
+![minMTTF](media/minMTTF.png)
+
+Twice MTTFmin: 
+
+![twiceMTTF](media/twiceMTTF.png)
+
+Half MTTFmin: 
+
+![halfMTTF](media/halfMTTF.png)
+
+
+
 ## Evaluation and Justification of MTTFmin
 
 ## Advantages and Disadvantages
