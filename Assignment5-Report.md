@@ -56,7 +56,12 @@ An advantage we found when using the SRTAT Reliability Demo Chart Tool was the e
 
 # Comparison of Results
 
+The calculated target failure rate from Part One (0.60) would not fit in the "accept" range on the Reliability Demonstartion Chart from Part Two. One way to allow the calculations from Part One to "fit" in our RDC, we can increase the customer risk. However, we are increasing the risk of assessing entities which are wrong to be right, and in the real world this can have dire consequences. Another method is to increase the discrimination ratio, this is the risk related to measured entity itself.
+
 # Discussion on Similarity and Differences of the Two Techniques
+
+Both tools allow to see software quality in a more qualitiative light. However, one major difference is that one tool (C-SFRAT) is focused heavily on reliability growth assessment, while SRAT has potential to do both reliability growth assessment and Reliability Demonstration Chart. One thing to note, is while SRAT can do both of the parts in the lab, we decided to use a mixture of C-SFRAT and SRAT to gain wider understanding of the different toolsets.
+
 
 # How the team work/effort was divided and managed
 
