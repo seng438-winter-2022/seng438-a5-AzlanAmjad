@@ -45,7 +45,12 @@ Half MTTFmin:
 
 ## Evaluation and Justification of MTTFmin
 
+To calculate minimum Mean Time Between Failures (MTTF), we used a "brute-force" approach, by playing around with the Failure Intensity Objective (FIO) inputs
+on the SRTAT Reliability Demo Chart tool. This method might not have been the best, but due to the vagueness of data provided, and to avoid mis-identifying the data set, we decided to use observations as the guiding force. We evaluted that due to simplistic nature of Reliability Demo Chart, it is easy to get a "glance" of the reliabilty surrounding a system, but it lacks a more quantitative aspect which might help determine exact cause-effects around reliability. 
+
 ## Advantages and Disadvantages
+
+An advantage we found when using the SRTAT Reliability Demo Chart Tool was the ease of setting everything up and modelling the data. However, a disadvantage was finding "exact values" or any information which might help us quanitfy the model in real-world terms. 
 
 #
 
