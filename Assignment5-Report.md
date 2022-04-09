@@ -11,6 +11,8 @@
 
 # Introduction
 
+This lab includes an analysis of integration test data using reliability assessment tools. In this lab we will use two ways to assess the failure data, **Reliability Growth Testing** and **Reliability Demonstration Chart**. The purpose of this lab is to get hands on experience with reliability assessment of a hypothetical system given failure data collected from integration testing. In the first part of this lab we will install a reliablity growth assessment tool and create plots for failure rate and reliability.
+
 #
 
 # Assessment Using Reliability Growth Testing
